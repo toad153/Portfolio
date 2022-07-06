@@ -1,0 +1,89 @@
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+    overflow: hidden;
+
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+
+    padding: 1.5rem 0 2rem 0;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.tincat {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navig {
+    margin-left: 25px;
+}
+
+.nav-link {
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.phone {
+    width: 20.5rem;
+    transform: rotate(25deg);
+    margin: 50px auto -35% auto;
+}
+
+
+/* download buttons */
+
+.download{
+    margin: 5% 3% 5% 0;
+}
+
+/* features */
+
+.features{
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.features-img{
+    font-size: 80px;
+    color: #ef8172;
+    padding-bottom: 30px;   
+}
+
+.features-img:hover{
+    color: #ff4c68;
+}
+
+.features-h3{
+    font-family: Montserrat, sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.features-p{
+    color: #8f8f8f;
+}
