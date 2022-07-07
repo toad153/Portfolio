@@ -23,6 +23,13 @@ h1 {
     padding: 1.5rem 0 2rem 0;
 }
 
+h2{
+    font-family: Montserrat, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -86,4 +93,56 @@ h1 {
 
 .features-p{
     color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    
+    color: #fff;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.pricing{
+    text-align: center;
+    padding: 5% 0% 5%;
+}
+
+.text-center{
+    padding: 0% 15% 5%;
+}
+
+.card-header{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.card-btn{
+    background-color: #ff4c68;
+}
+
+.card-btn:hover{
+    background-color: #ff4c68;
 }
